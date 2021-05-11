@@ -3,8 +3,13 @@
 A new Flutter project.
 
 ## Getting Started
+![alt text](https://github.com/ZeozinoJose32h/supera-tecnologia-challenge/blob/main/readmeAssets/car.gif)
+carrinho
+![alt text](https://github.com/ZeozinoJose32h/supera-tecnologia-challenge/blob/main/readmeAssets/order.gif)
+ordem
+![alt text](https://github.com/ZeozinoJose32h/supera-tecnologia-challenge/blob/main/readmeAssets/drawer.gif)
+drawer
 
-!['aa'](https://www.behance.net/gallery/112383713/Conheca-nossos-projetos/modules/642549469)
 
 This project is a starting point for a Flutter application.
 
